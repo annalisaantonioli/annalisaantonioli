@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @annalisaantonioli
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on web app and mobile app developement
 - 📫 You can reach me at annalisa@antonioli.dev
 
 <!---
